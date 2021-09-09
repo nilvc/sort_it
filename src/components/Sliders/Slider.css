@@ -1,0 +1,23 @@
+.slider-container{
+    width: 50%;
+    margin: auto;
+    float: left;
+}
+
+.range-slider1{
+    display: inline block;
+    width: 30%;
+    float: left;
+    padding-left:10px ;
+}
+
+.range-slider2{
+    display: inline block;
+    width: 30%;
+    float: right;
+}
+
+/* .range-slider__range{
+    background-color: blueviolet !important;
+    border: 5px solid yellowgreen;
+} */
